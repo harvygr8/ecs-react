@@ -1,5 +1,5 @@
 import React from 'react'
-import CounterOne from '../components/counters/CounterOne'
+import CounterOne from '../components/CounterOne'
 import { Center } from '@chakra-ui/react'
 
 const ExpOne = () => {

@@ -4,7 +4,7 @@ import React, { useState } from 'react'
 
 //Basic State
 const CounterOne = () => { 
-
+    
   const [count,setCount] = useState(0)
 
   return (
