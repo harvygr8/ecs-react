@@ -2,8 +2,8 @@
 
 import React, { useState } from 'react'
 import { Center, Flex } from '@chakra-ui/react'
-import InputTwo from '../components/InputTwo'
-import TextTwo from '../components/TextTwo'
+import InputTwo from '../components/expThree/InputTwo'
+import TextTwo from '../components/expThree/TextTwo'
 
 const ExpTwo = () => {
     
